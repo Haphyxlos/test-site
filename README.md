@@ -1,5 +1,5 @@
-# learning-git
+# test-site
 
 Hello, World!
 
-This is a demo project for learning how to use Git.
+This is a demo project for learning Web.
